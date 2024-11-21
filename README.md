@@ -1,2 +1,2 @@
 # Testing-Samples
-THis repo contains sample malware files.
+This repo contains sample malware files.
